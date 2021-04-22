@@ -12,7 +12,7 @@ This Application uses Machine Learning and Deep Learning tools
 
  <li>
   
- <li>
+ <li><a href="https://github.com/DarinJoshua-dev">Darin Joshua D</a>
   
  <li><a href="https://github.com/isaacgn">Isaac G</a>
 
